@@ -1,0 +1,16 @@
+/* swiper */
+
+.swiper-container {
+  max-width: 100%;
+  height: auto;
+}
+.swiper-slide img {
+  max-width: 100%;
+  background-position: center;
+}
+.swiper-button-next::after,
+.swiper-button-prev::after {
+  color: #fff2f2;
+  font-weight: bolder;
+}
+

@@ -1,0 +1,11 @@
+@import "~bootstrap/scss/functions";
+@import "./helpers/_variables";
+@import "~bootstrap/scss/bootstrap";
+
+// Custom
+// @import "navpanel";
+
+@import "animation";
+@import "custom";
+@import "swiper";
+@import "dashboard";
